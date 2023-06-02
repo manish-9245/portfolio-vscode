@@ -1,5 +1,10 @@
 # 🏆 Accomplishments
 
+### Scholarship from Department of Technical Education
+
+* Issued by Govt. of Karnataka · August 2019- Present
+* Recepient of Scholarship from DTE for academic excellence for 4 consecutive years of B.E degree
+
 ### **Special award for Extraordinary Technical Expertise in National Hackathon**
 
 * Issued by Bangalore Humanitarian Technology Conference(B-HTC 2022) · Oct 2022
